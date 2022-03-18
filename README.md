@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Calculadora de IMC 👋</h1>
+<h1 align="center">Welcome to IMC Calculator 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://opensource.org/licenses/ISC" target="_blank">
@@ -11,9 +11,9 @@
 
 > Calculator for know your IMC according to your weight and height. Building on ReactJS
 
-### 🏠 [Homepage](https://calculadora-imc-913m424oa-cjdiaz18.vercel.app)
-
 ### ✨ [Demo](https://calculadora-imc-913m424oa-cjdiaz18.vercel.app)
+
+![](screenshot.png)
 
 ## Install
 
@@ -27,11 +27,6 @@ npm install
 npm run start
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
 
 ## Author
 
