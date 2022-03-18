@@ -11,7 +11,7 @@
 
 > Calculator for know your IMC according to your weight and height. Building on ReactJS
 
-### ✨ [Demo](https://calculadora-imc-913m424oa-cjdiaz18.vercel.app)
+### ✨ [Demo](https://calculadora-imc-cjdiaz18.vercel.app/)
 
 ![](screenshot.png)
 
